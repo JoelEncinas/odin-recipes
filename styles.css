@@ -1,0 +1,17 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background-color: rgb(245, 250, 255);
+}
+
+h1,
+h2 {
+    color: lightcoral;
+}
+
+a {
+    color: rgb(108, 194, 97);
+}
+
+.main-title {
+    font-size: 40px;
+}
